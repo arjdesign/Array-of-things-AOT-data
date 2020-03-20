@@ -1,0 +1,201 @@
+,EPSG:4326_Long,EPSG:4326_Lat,Address,Description
+0,0.0,0.0,Beehive,Beehive
+1,0.0,0.0,Beehive,Beehive
+2,0.0,0.0,TCS 4302 - Returned from CDOT 04 Dec 2017,AoT Chicago (T) - Replace
+3,-87.627678,41.878377,State St & Jackson Blvd Chicago IL,AoT Chicago (S) [C]
+4,0.0,0.0,TBD,AoT UNC (S) [C]
+5,-87.616055,41.858136,18th St & Lake Shore Dr Chicago IL,AoT Chicago (S)
+6,0.0,0.0,"TCS 4302 P2,S7",AoT Node (S)
+7,0.0,0.0,TBD,AoT Denver (S)
+8,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+9,-87.6307578,41.9262614,Lake Shore Drive & Fullerton Ave Chicago IL,AoT Chicago (S) [CA]
+10,0.0,0.0,TCS 4302 (Returned from CDOT 4/3/17),AoT Chicago (T)
+11,0.0,0.0,Returned - TCS 4302,AoT Chicago (T)
+12,-87.590228,41.810342,Cornell & 47th St Chicago IL,AoT Chicago (S)
+13,0.0,0.0,Returned - TCS 4302,AoT NIU (T)
+14,0.0,0.0,"TCS 4302,01/18/2018",AoT Chicago (T) - Returned
+15,-87.710543,41.866349,Homan Ave & Roosevelt Rd Chicago IL,AoT Chicago (S) [C]
+16,0.0,0.0,"TCS 4302,01/18/2018",AoT Chicago (T) - Returned
+17,0.0,0.0,TCS 4302 (Returned from CDOT 4/3/17),AoT Chicago (T)
+18,0.0,0.0,Retired as display piece. With Douglas at SAIC.,Hot Glue Humidor (T)
+19,-87.6277685,41.88320529999999,State St & Washington St Chicago IL,AoT Chicago (T)
+20,0.0,0.0,TCS 4302 (Brought Inside Oct 2017),Test Control Node (T)
+21,0.0,0.0,"TCS 4302,01/18/2018",AoT Chicago (T) - Returned
+22,0.0,0.0,TCS Somewhere?,
+23,-87.58645600000001,41.7806,Stony Island Ave & 63rd St Chicago IL,AoT Chicago (S) [C]
+24,0.0,0.0,"Fedex, 21/DEC/2017",Panasonic at Civic Ctr Park (S)
+25,0.0,0.0,TCS 4302 - Returned from CDOT 04 Dec 2017,AoT Chicago (T) - Replace
+26,0.0,0.0,"TCS 4302 P2,S9",AoT Node (S)
+27,-87.71299,41.751238,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [C] {ComEd}
+28,-87.675825,41.852179,Damen Ave & Cermak Chicago IL,AoT Chicago (S)
+29,0.0,0.0,TBD,AoT Node (S) {NIU}
+30,-87.624179,41.736314,State St & 87th Chicago IL,AoT Chicago (S) [C]
+31,-87.683396,41.768319,Western Ave & 69th St Chicago IL,AoT Chicago (S) [C]
+32,0.0,0.0,TCS 4302 - Returned from CDOT 04 Dec 2017,AoT Chicago (T) - Replace
+33,0.0,0.0,"TCS 4302 (Returned from Panasonic 4/?/17) P1,S2",Panasonic - Dead (T)
+34,0.0,0.0,TCS 4302,AoT Node (S)
+35,0.0,0.0,TCS 4302 (Returned from NIU Oct 2017),Humidor (T)
+36,-87.685806,41.857797,Western Ave & 18th St Chicago IL,AoT Chicago (S)
+37,0.0,0.0,"TCS 4302,01/18/2018",AoT Chicago (T) - Returned
+38,0.0,0.0,"TCS 4302 P1,S6",AoT Node (S)
+39,-87.684862,41.8303847,Western Blvd & 35th St Chicago IL,AoT Chicago (T)
+40,0.0,0.0,"TCS 4302,01/18/2018",AoT Chicago (T) - Returned
+41,-87.57535,41.722457,Jeffrey Ave & 95th St Chicago IL,AoT Chicago (S) [C]
+42,0.0,0.0,TBD,UW (T)
+43,-87.614529,41.736495,Martin Luther King Dr & 87th St Chicago IL,AoT Chicago (S) [C]
+44,-87.679076,41.965089,Damen Ave & Wilson Ave Chicago IL,AoT Chicago (S) [C]
+45,0.0,0.0,Returned - TCS 4302,AoT Chicago (T) {UChicago}
+46,-87.655523,41.994597,Sheridan Rd & Granville Ave Chicago IL,AoT Chicago (S) [C]
+47,-87.64613299999998,41.832579,Halsted St & 34th St Chicago IL,AoT Chicago (S) [C]
+48,0.0,0.0,Returned - TCS 4302,AoT Chicago (T) {UChicago}
+49,-87.671773,41.882304,Wood St & Warren Blv Chicago IL,AoT Chicago (S) [C]
+50,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+51,-87.68105200000002,41.912681,Milwaukee Ave & Wabansia Ave Chicago IL,AoT Chicago (S)
+52,0.0,0.0,TBD,AoT Node (S) {NIU}
+53,0.0,0.0,"TCS 4302 P1,S10",AoT Node (S) [C]
+54,-87.61473199999998,41.743814,Martin Luther King Dr & 83rd St Chicago IL,AoT Chicago (S)
+55,-87.675311,41.831827,Damen Ave & Archer Chicago IL,AoT Chicago (S)
+56,-87.69068,41.94672,Campbell Ave & Addison St Chicago IL,AoT Chicago (S)
+57,0.0,0.0,Returned - TCS 4302,AoT Chicago (S)
+58,0.0,0.0,Returned - TCS 4302,AoT Node (S) [C]
+59,-87.70604200000002,41.878372,Kedzie Ave & 5th Ave Chicago IL,AoT Chicago (S)
+60,-87.64743100000003,41.88431,Halsted St & Randolph St Chicago IL,AoT Chicago (S)
+61,-87.683048,41.914202,606 Path & Milwaukee Ave Chicago IL,AoT Chicago (S)
+62,-87.72565999999998,41.880732,Pulaski Rd & Madison St Chicago IL,AoT Chicago (S)
+63,-87.54045,41.741148,Lake Shore Drive & 85th St Chicago IL,AoT Chicago (S)
+64,-87.686359,41.881172,Western Ave & Madison St Chicago IL,AoT Chicago (S)
+65,-87.994764,41.701503,"Bldg 484, EVS Field Site",AoT Node (S) [C] {Argonne}
+66,0.0,0.0,"TCS 4302 P1,S1",AoT Node (S) [C]
+67,0.0,0.0,TBD,AoT UNC (S) [C]
+68,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+69,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+70,0.0,0.0,TBD,AoT UNC (S) [C]
+71,-87.677766,41.921405,Damen Ave & Webster Chicago IL,AoT Chicago (S) [C]
+72,0.0,0.0,"TCS 4302 P2,S2",AoT Node (S) [C]
+73,0.0,0.0,"TCS 4302 P2,S1",AoT Node (S) [C]
+74,0.0,0.0,"TCS 4302 P1,S3",AoT Node (S) [C]
+75,-87.68555699999997,41.846579,Western Ave & 25th St Chicago IL,AoT Chicago (S) [C]
+76,-87.682414,41.913583,Leavitt St & Milwaukee Ave Chicago IL,AoT Chicago (S)
+77,-87.673061,41.846897,Damen Ave & Chicago International Produce Market Chicago IL,AoT Chicago (S)
+78,-87.66614399999997,41.857775,Ashland Ave & 18th St Chicago IL,AoT Chicago (S)
+79,-87.6674,41.903335,Ashland Ave & Division St Chicago IL,AoT Chicago (S)
+80,-87.605288,41.751295,Cottage Grove Ave & 79th St Chicago IL,AoT Chicago (S) [C]
+81,-87.66442099999998,41.779369,Ashland & 63rd St Chicago IL,AoT Chicago (S) [C]
+82,-87.65642700000002,41.857959,Racine Ave & 18th St Chicago IL,AoT Chicago (S) [C]
+83,-87.68825799999998,41.946731,Western Ave & Addison St Chicago IL,AoT Chicago (S) [C]
+84,0.0,0.0,TBD,AoT UNC (S) [C]
+85,-87.761072,41.923996,Long Ave & Fullerton Ave Chicago IL,AoT Chicago (S) [C]
+86,-87.71299,41.751142,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [C] {ComEd}
+87,0.0,0.0,"TCS 4302 P1,S8",AoT Node (S) [C]
+88,-87.995976,41.701272,"Field by Bldg 484 Backyard, EVS Field Site",AoT Node (S) [C] {Argonne}
+89,-87.607817,41.838618,Fort Dearborn Dr & 31st St Chicago IL,AoT Chicago (S) [C]
+90,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+91,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+92,-87.72606400000002,41.895355,Pulaski Rd & Chicago Ave Chicago IL,AoT Chicago (S) [C]
+93,0.0,0.0,"TCS 4302 P2,S8",AoT Node (S) [C]
+94,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+95,0.0,0.0,TBD,AoT Syracuse (S) [CA]
+96,0.0,0.0,pod-less node Seans desk TCS,AoT Node (S) [CA]
+97,-87.666306,41.866786,Ashland Ave & Roosevelt Rd Chicago IL,AoT Chicago (S) [C]
+98,0.0,0.0,TBD,AoT Stanford (S) [C]
+99,0.0,0.0,TBD,AoT Portland (S) [CA]
+100,0.0,0.0,TBD,AoT Portland (S) [CA]
+101,0.0,0.0,TBD,AoT Portland (S) [CA]
+102,-87.665048,41.808594,Ashland Ave & 47th Chicago IL,AoT Chicago (S) [C]
+103,0.0,0.0,TBD,AoT Seattle (S) [C]
+104,-87.649518,41.910922,Clybourn Ave & North Ave Chicago IL,AoT Chicago (S) [C]
+105,-87.664343,41.786756,Ashland Ave & 59th St Chicago IL,AoT Chicago (S) [C]
+106,0.0,0.0,TBD,AoT Seattle (S) [C]
+107,-87.598677,41.791329,Hutchinson Commons UChicago Chicago IL,AoT Chicago (S) [C] {UChicago}
+108,-87.59913,41.78843,UChicago Chicago IL,AoT Chicago (S) [C] {UChicago}
+109,0.0,0.0,TBD,AoT Seattle (S) [C]
+110,-87.71299,41.751142,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [CA] {ComEd}
+111,-87.601646,41.794167,Ratner Hall UChicago Chicago IL,AoT Chicago (S) [C] {UChicago}
+112,-87.71299,41.751142,7801 S Lawndale Ave Chicago IL,AoT Chicago (S) [CA] {ComEd}
+113,-87.615957,41.794477,Martin Luther King Dr & Garfield Blvd Chicago IL,AoT Chicago (S) [C]
+114,-87.600117,41.793278,"UChicago, Smart Museum Chicago IL",AoT Chicago (S) [C] {UChicago}
+115,-87.671373,41.906481,Milwaukee Ave & Wood St Chicago IL,AoT Chicago (S) [C]
+116,-87.724499,41.84241,Pulaski Rd & 27th St Chicago IL,AoT Chicago (S) [C]
+117,-87.617298,41.83107,Martin Luther King Dr & 35th St Chicago IL,AoT Chicago (S) [C]
+118,0.0,0.0,"CDOT,05/31/2018",AoT Chicago (S) [C]
+119,-87.668257,41.918733,Ashland Ave & Elston Ave Chicago IL,AoT Chicago (S) [C]
+120,-87.597995,41.788979,"UChicago, Oriental Museum Chicago IL",AoT Chicago (S) [C] {UChicago}
+121,-87.666599,41.8742,Ashland Ave & Harrison St Chicago IL,AoT Chicago (S) [C]
+122,-87.683022,41.9140942,606 Path & Miwaukee Ave Chicago IL,AoT Chicago (S) [C]
+123,-87.604647,41.729355,93rd St & Cottage Grove Ave Chicago IL,AoT Chicago (S) [C]
+124,-87.74526800000002,41.880497,Cicero Ave & Madison St Chicago IL,AoT Chicago (S) [C]
+125,-87.67644,41.87148,Damen Ave & Polk St Chicago IL,AoT Chicago (S) [C]
+126,-87.659672,41.96904,Broadway Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [C]
+127,-87.641054,41.823527,Wallace St & Pershing Rd Chicago IL,AoT Chicago (S) [C]
+128,-87.72738199999998,41.946373,Pulaski Rd & Addison St Chicago IL,AoT Chicago (S) [C]
+129,-87.60448199999998,41.722044,Cottage Grove Ave & 95th St Chicago IL,AoT Chicago (S) [C]
+130,0.0,0.0,TBD,AoT Stanford (S) [C]
+131,-87.66351800000002,41.75034,Ashland Ave & 79th St Chicago IL,AoT Chicago (S) [C]
+132,-87.679174,41.968757,Damen Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [C]
+133,-87.604759,41.736593,Cottage Grove Ave & 87th St Chicago IL,AoT Chicago (S) [C]
+134,-87.66672,41.965256,Clark St & Wilson Ave Chicago IL,AoT Chicago (S) [C]
+135,-87.662391,41.896157,Chicago Ave & Noble St Chicago IL,AoT Chicago (S) [C]
+136,0.0,0.0,TBD,AoT Stanford (S) [C]
+137,-87.598713,41.788608,UChicago Chicago IL,AoT Chicago (S) [C] {UChicago}
+138,-87.687703,41.924903,Western Ave & Fullerton Ave Chicago IL,AoT Chicago (S) [C]
+139,-87.745817,41.895005,Cicero Ave & Chicago Ave Chicago IL,AoT Chicago (S) [C]
+140,-87.609852,41.692769,Cottage Grove Ave & 111th St Chicago IL,AoT Chicago (S) [C]
+141,-87.665948,41.961622,Clark St & Montrose Ave Chicago IL,AoT Chicago (S) [C]
+142,-87.723801,41.939121,Milwaukee & Belmont Chicago IL,AoT Chicago (S) [C]
+143,-87.66640600000002,41.916586,Elston and Cortland Chicago IL,AoT Chicago (S) [C]
+144,-87.648093,41.903632,Halsted St & Division St Chicago IL,AoT Chicago (S) [C]
+145,0.0,0.0,TBD,AoT Denver - Panasonic (S) [CA]
+146,-87.703739,41.800846,Kedzie Ave & 51st St Chicago IL,AoT Chicago (S) [C]
+147,-87.599623,41.795436,"UChicago, Law School Chicago IL",AoT Chicago (S) [C] {UChicago}
+148,-87.6116431,41.8920031,Ohio St & Grand Ave Chicago IL,AoT Chicago (S) [C]
+149,-87.539374,41.66607800000001,Ave O & 126th Chicago IL,AoT Chicago (S) [C]
+150,-87.536509,41.713867,Ave L & 100th St Chicago IL,AoT Chicago (S) [C]
+151,-87.72242,41.764122,Pulaski Rd & 71st St Chicago IL,AoT Chicago (S) [C]
+152,-87.645248,41.954825,Lake Shore Drive & Irving Park Rd Chicago IL,AoT Chicago (S) [C]
+153,-87.559113,41.65849,Torrence Ave & Brainard Ave Chicago IL,AoT Chicago (S) [C]
+154,-87.611081,41.685445,Cottage Grove Ave & 115th St Chicago IL,AoT Chicago (S) [C]
+155,-87.62775,41.88076,State St & Monroe St Chicago IL,AoT Chicago (S) [C]
+156,-87.627864,41.884688,State St & Randolph St Chicago IL,AoT Chicago (S) [C]
+157,-87.665685,41.839066,Ashland Ave & 31st Pl Chicago IL,AoT Chicago (S) [C]
+158,0.0,0.0,TBD,AoT Syracuse (S) [C]
+159,-88.062771,41.922183,"Surya Burn-In, (08/02/2019)",AoT Node (S) [CP]
+160,-87.624577,41.884607,Michigan Ave & Randolph St Chicago IL,AoT Chicago (S) [C]
+161,-87.64309899999998,41.714494,Halsted St & 99th St Chicago IL,AoT Chicago (S) [C]
+162,-87.688326,41.947066,Western Ave & Addison St Chicago IL,AoT Chicago (S) [C]
+163,-87.76257,41.96759,Long Ave & Lawrence Ave Chicago IL,AoT Chicago (S) [P]
+164,-87.688069,41.943263,Western Ave & Roscoe Ave Chicago IL,AoT Chicago (S) [P]
+165,-87.666748,41.883541,Ashland Ave & Washington Chicago IL,AoT Chicago (S) [P]
+166,-87.63387,41.88326,N Wells St & W Washington St Chicago IL ,AoT Chicago (S) [P]
+167,-87.636955,41.88449,Upper Wacker Dr & Randolph St Chicago IL,AoT Chicago (S) [P]
+168,0.0,0.0,TBD,AoT Syracuse (S) [CP]
+169,-87.58713399999998,41.789737,"UChicago, Shapiro Hall Chicago IL",AoT Chicago (S) [CP] {UChicago}
+170,-87.62969,41.88575,Dearborn St & Lake St Chicago IL,AoT Chicago (S) [P]
+171,0.0,0.0,"Surya,02:04/02/18, 03:/04/17/18, 04:/04/23/18",AoT Node (S) [C]
+172,-87.63153299999998,41.92617,Lake Shore Drive & Fullerton Ave Chicago IL,AoT Chicago (S) [C]
+173,84.3963,33.7756,Georgia Tech,AoT GA Tech (S) [CP]
+174,-88.062771,41.922183,"Surya Burn-In, (12/21/2018)",AoT Node (S) [CP]
+175,-87.613419,41.692837,111th St & Martin Luther King Dr Chicago IL,AoT Chicago (S) [CP]
+176,-87.64914499999998,41.779805,Morgan Ave & 63rd St Chicago IL,AoT Chicago (S) [CP]
+177,-88.062771,41.922183,"Surya Burn-In, (29/04/2019)",AoT Node (S) [CP]
+178,0.0,0.0,CDOT (2019/02/15),AoT Chicago (S) [CP]
+179,-87.671154,41.699234,107th St & Longwood Ave Chicago IL,AoT Chicago (S) [CP]
+180,-87.659612,41.714021,99th St & Beverly Blvd Chicago IL,AoT Chicago (S) [CP]
+181,-87.66263000000002,41.721301,95th St & Ashland Ave Chicago IL,AoT Chicago (S) [CP]
+182,-87.98195799999998,41.718434,Argonne TCS Outside,AoT Node (S) [CP]
+183,-87.681606,41.706381,103rd & Western Ave Chicago IL,AoT Chicago (S) [CP]
+184,-88.062771,41.922183,"Surya Burn-In, (29/04/2019)",AoT Node (S) [CP]
+185,-88.062771,41.922183,"Surya Burn-In, (25/02/2019)",AoT Node (S) [CP]
+186,-87.622214,41.785715,60th & Michigan Ave Chicago IL,AoT Chicago (S) [CP]
+187,-88.062771,41.922183,"Surya Burn-In, (25/02,2019)",AoT Node (S) [CP]
+188,0.0,0.0,TBD,AoT Vanderbilt (S) [CP]
+189,-87.622479,41.794467,Garfield Blvd & Michigan Ave Chicago IL,AoT Chicago (S) [CP]
+190,-87.644777,41.779889,63rd St & Halsted Ave Chicago IL,AoT Chicago (S) [CP]
+191,-87.62102,41.692703,111th & Michigan Ave Chicago IL,AoT Chicago (S) [CP]
+192,-87.663723,41.691803,111th & Vincennes Chicago IL,AoT Chicago (S) [CP]
+193,84.3963,33.7756,Georgia Tech,AoT GA Tech (S) [CP]
+194,-87.654487,41.779744,Racine Ave & 63rd St Chicago IL,AoT Chicago (S) [CP]
+195,-87.65935400000002,41.779593,Loomis Ave & 63rd St Chicago IL,AoT Chicago (S) [CP]
+196,-88.062771,41.922183,"Surya Burn-In, (25/02,2019)",AoT Node (S) [CP]
+197,0.0,0.0,TBD,AoT Vanderbilt (S) [CP]
+198,-88.062771,41.922183,"Surya Burn_in, (23/05/2019)",AoT Node (S) [CP]
+199,-87.981959,41.718448,TCS Outside,AoT Node (S) [CP]
