@@ -1,5 +1,3 @@
 
 
-Working frontend here!
-
-https://arrayofthings.z5.web.core.windows.net/
+Array of things (AOT) data read.
